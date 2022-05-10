@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87756c6265fee94b8b380dd86a3d1a8, type: 3}
+  m_Name: Capilla
+  m_EditorClassIdentifier: 
+  ItemName: Capilla Sixtina
+  ItemImage: {fileID: 21300000, guid: 6327d19c4746f0a479ee652dd5787405, type: 3}
+  ItemDescription: Miguel Angel
+  Item3DModel: {fileID: 8666346470330172913, guid: d50c586410992eb44bcfd68b2aa9bb87, type: 3}

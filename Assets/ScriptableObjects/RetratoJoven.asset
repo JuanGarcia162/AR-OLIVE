@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87756c6265fee94b8b380dd86a3d1a8, type: 3}
+  m_Name: RetratoJoven
+  m_EditorClassIdentifier: 
+  ItemName: Retrato De Una Joven
+  ItemImage: {fileID: 21300000, guid: 1e14eee7b553b904d9c8837386b5a057, type: 3}
+  ItemDescription: Sandro
+  Item3DModel: {fileID: 7970241340377787728, guid: 6d52fa48385b94149af4c98260765a1b, type: 3}
